@@ -63,6 +63,7 @@ const App = () => {
 
   return (
     <div className="min-h-screen w-screen bg-gradient-to-r from-purple-400 to-indigo-200 flex flex-col items-center relative">
+      <h1>Developed by sajid</h1>
       <div className="my-4">
         <button
           onClick={addText}
